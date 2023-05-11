@@ -1,0 +1,17 @@
+{
+    "name": "hexo_waline_next",
+    "version": "3.0.1",
+    "description": "Waline comment system for NexT.",
+    "keywords": [
+      "Hexo",
+      "NexT",
+      "waline"
+    ],
+    "homepage": "https://github.com/wens07/hexo_waline_next",
+    "license": "MIT",
+    "author": "wens.wq",
+    "main": "index.js",
+    "dependencies": {
+      "@next-theme/utils": "^1.3.0"
+    }
+  }
